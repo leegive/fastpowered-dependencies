@@ -26,6 +26,11 @@
                 <artifactId>fastpowered-starter-banner</artifactId>
                 <version>${fastpowered.version}</version>
             </dependency>
+            <dependency>
+                <groupId>com.fastpowered</groupId>
+                <artifactId>fastpowered-starter-raft</artifactId>
+                <version>${fastpowered.version}</version>
+            </dependency>
 
             <dependency>
                 <groupId>org.rocksdb</groupId>
